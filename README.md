@@ -1,3 +1,5 @@
+![Screenshot (2329)](https://github.com/RiteshGangwar2022/Hirequotient-assignment-2/assets/116111183/8f0e3bdc-6b40-4c41-bde1-40e152d9f16e)
+![Screenshot (2328)](https://github.com/RiteshGangwar2022/Hirequotient-assignment-2/assets/116111183/87ae58dd-c03f-4d06-9970-c0de132e1097)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
